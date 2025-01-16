@@ -1,0 +1,6 @@
+/logs
+/agent_env
+/.env
+/.vscode
+/.pytest_cache
+/models

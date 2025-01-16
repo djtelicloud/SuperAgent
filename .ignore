@@ -1,0 +1,9 @@
+.vscode
+agent_env
+logs/*
+.env
+__pycache__
+tests/*
+models/*
+.pytest_cache
+

@@ -1,0 +1,22 @@
+aiohttp==3.9.3
+azure-identity==1.18.0
+azure-search-documents==11.6.0b4
+python-dotenv==1.0.1
+azure-storage-blob==12.23.1
+rich==13.9.4
+nest-asyncio==1.6.0
+uvicorn==0.34.0
+fastapi==0.115.6
+pydantic==2.10.4
+pydantic-ai==0.0.15
+requests==2.32.3
+pandas==2.2.3
+numpy==2.2.1
+openai==1.59.5
+pytest==8.3.4
+black==24.10.0
+scikit-learn==1.6.1
+azure-functions==1.21.3
+pydantic[email]
+--extra-index-url https://download.pytorch.org/whl/cu121
+sentence-transformers==2.6.1
